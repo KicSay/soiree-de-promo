@@ -4,3 +4,4 @@ Liste de course
 - pizza
 - gâteau au chocolat
 - glaçons
+- serviettes
